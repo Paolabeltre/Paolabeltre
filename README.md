@@ -2,11 +2,9 @@
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
  # Expecializándome en Analista de Datos | Estudiante de Maestría
 
 Bienvenido(a) a mi espacio profecional en GitHub. Aqui comparto los proyectos, practicas y aprendizales que forman parte de mi crecimiento en tecnología y análisis de datos.
@@ -19,7 +17,6 @@ Actualmente curso una *Maestría* mientras continúo fortaleciendo mis conocimie
 
 - SQL
 - MySQL
-- PostgreSQL
 - Python
 - Big Data
 - Administración de Bases de Datos
@@ -49,7 +46,6 @@ Entre mis responsabilidades se encuentran:
  - Data Analytics
  - SQL
  - Python
- - Power BI
  - Big Data
  - Administración de Bases de Datos
 
