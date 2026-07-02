@@ -5,10 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Paolabeltre&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Paolabeltre&layout=compact&theme=tokyonight&cache_seconds=1800)
-
  # Expecializándome en Analista de Datos | Estudiante de Maestría
 
 Bienvenido(a) a mi espacio profecional en GitHub. Aqui comparto los proyectos, practicas y aprendizales que forman parte de mi crecimiento en tecnología y análisis de datos.
