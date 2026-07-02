@@ -6,9 +6,7 @@ Bienvenido(a) a mi espacio profecional en GitHub. Aqui comparto los proyectos, p
 
 Actualmente curso una *Maestría* mientras continúo fortaleciendo mis conocimientos en *Análisis de Datos, **Administración de Bases de Datos, **SQL, **Python, **Power BI* y *Big Data*, aplicando estos conocimientos en proyectos académicos y personales para desarrollar soluciones basadas en datos..
 
-Actualmente curso una *Maestría* mientras continuo  *Análisis de Datos, **Administración de Bases de Datos, **SQL, **Python, **Power BI* y *Big Data*, con el objetivo de desarrollar soluciones que ayuden a las organizaciones a tomar decisiones basadas en datos.
-
----
+ ---
 
 # 🚀 Tecnologías
 
